@@ -77,7 +77,7 @@ export const sidebarItems: NavGroup[] = [
       },
       {
         title: "Academy",
-        url: "/dashboard/gesap2",
+        url: "/dashboard/coming-soon",
         icon: GraduationCap,
        
       },
